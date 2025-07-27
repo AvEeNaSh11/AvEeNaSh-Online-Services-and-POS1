@@ -58,7 +58,7 @@
     <h2>Special Promo</h2>
     <p>🎁 Enjoy 5% bonus data on your first 3 top-ups! Limited-time offer.</p>
   </section>  <section>
-    <h2>Pay for Services</h2>
+    <h2>[README.md](https://paystack.shop/pay/dkx55efh5q)</h2>
     [<p>Click the button below to make secure payments for any of our services](https://paystack.shop/pay/dkx55efh5q).</p>
     <a href="https://paystack.com/pay/aveenashservices" target="_blank" class="cta-button">Pay Now</a>
   </section>  <section>
