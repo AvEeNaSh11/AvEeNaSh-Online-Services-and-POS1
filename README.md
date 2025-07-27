@@ -60,7 +60,7 @@
   </section>  <section>
     <h2>[README.md](https://paystack.shop/pay/dkx55efh5q)</h2>
     [<p>Click the button below to make secure payments for any of our services](https://paystack.shop/pay/dkx55efh5q).</p>
-    <a href="https://paystack.com/pay/aveenashservices" target="_blank" class="cta-button">Pay Now</a>
+    <a href="[https://paystack.com/pay/aveenashservices](https://paystack.shop/pay/dkx55efh5q)" target="_blank" class="cta-button">Pay Now</a>
   </section>  <section>
     <h2>Contact Us</h2>
     <p>📞 Phone: 08162737159 | 09021564696 | 09020263686</p>
