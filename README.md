@@ -1,19 +1,3 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="AvEeNaSh Online Services & POS - Data, POS, Utility Bills, and More." />
-  <title>AvEeNaSh Online Services & POS</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; background: #f4f8fc; color: #333; }
-    header { background-color: #007bff; color: white; padding: 2rem 1rem; text-align: center; }
-    section { padding: 2rem 1rem; max-width: 900px; margin: auto; }
-    h2 { color: #007bff; }
-    .services, .benefits { display: flex; flex-wrap: wrap; gap: 1rem; }
-    .box { background: white; padding: 1rem; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.1); flex: 1 1 250px; }
-    .cta-button { display: inline-block; background: #007bff; color: white; padding: 1rem 2rem; margin-top: 1rem; text-decoration: none; border-radius: 8px; }
-    footer { background: #003d7a; color: white; text-align: center; padding: 1.5rem 1rem; margin-top: 2rem; }
-    @media (max-width: 600px) { .services, .benefits { flex-direction: column; } }
   </style>
 </head>
 <body>
